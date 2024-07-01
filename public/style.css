@@ -1,0 +1,396 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header-toplist ul li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 15px;
+}
+section{
+    padding: 75px 0;
+}
+.header-toplist ul li a {
+   color: #fff;
+   text-decoration: none;
+   font-size: 20px;
+}
+.stright-align{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.stright-align ul{
+    margin-bottom: inherit;
+}
+.connectlist ul li i{
+    padding-right: 10px;
+}
+.iconlist ul {
+    text-align: right;
+}
+.iconlist ul li {
+    border: 1px solid brown;
+    margin: 10px 5px;
+    padding: 10px 16px;
+
+}
+.iconlist ul li:nth-child(1){
+    border: none;
+    color: #fff;
+
+    
+}
+.iconlist ul li:nth-child(2){
+    border: none;
+    color: #fff;
+    
+}
+.icon1{
+    font-size: 38px;
+
+}
+.best{
+    margin-top: 0px;
+    margin-left: 0px;
+}
+.caption-slider{
+    bottom: 17.25rem;
+    right: 52%;
+}
+.caption-slider h5{
+    font-size: 56px;
+    font-weight: 900;
+}
+.box{
+    background: #dadcdd;
+    padding: 54px 20px;
+    text-align: center;
+    margin: 10px 15px;
+    border-radius: 2px;
+    width: 300px;
+    height: 230px;
+    position: relative;
+}
+.ic{
+    border-radius: 60px;
+    background-color: #fff;
+    position: absolute;
+    top: -45px;
+    left: 100px;
+    padding: 15px;
+    
+}
+.empty-border-01{
+    height: 422px;
+    width: 333px;
+    position: relative;
+    margin-left: 97px;
+    border: 6px solid #b78d65
+
+}
+.empty-border-02{
+    height: 422px;
+    width: 333px;
+    position: relative;
+    margin-left: 97px;
+    border: 6px solid #b78d65
+
+}
+.about-us{
+    margin-top: -49px;
+    color: #b78d65;
+}
+.about{
+    position: absolute;
+    top: 45px;
+    left: 124px;
+    padding: none;
+    background-color:inherit;
+    border: none;
+    border-radius:none;
+    width: 270px;
+    height: 430px;
+   
+
+    
+}
+.about2{
+    position: absolute;
+    top: -66px;
+    right: 142px;
+    padding: none;
+    background-color: inherit;
+    border: none;
+    border-radius: none;
+    width: 270px;
+    height: 430px;
+}
+.empty-border2{
+    position: relative;
+    height: 100px;
+    width: 100px;
+    border: 6px solid #b78d65
+}
+.twofive{
+    font-size: 58px;
+    font-weight: bold;
+    padding: 0px 13px;
+}
+.years{
+    padding-left: 30px;
+
+}
+.read{
+    margin-top: 18px;
+    background-color: #b78d65;
+    border-radius: inherit;
+    padding: 8px 20px;
+}
+.fifth-part container row{
+    justify-content: center;
+    align-items: center;
+}
+.services{
+    color: #b78d65;
+}
+.focused{
+    font-weight: bolder;
+}
+.interior{
+    font-weight: bolder;
+}
+.box2{
+    width: 330px;
+    height: 330px;
+    background-color: #f8f8f8;
+    padding: 38px 22px;
+    text-align: center;
+    position: relative;
+    z-index: 1;
+}
+
+
+.add{
+    background-color: #fff;
+    color: #b78d65;
+    font-size: x-large;
+    
+}
+.space{
+    width: 100%;
+    height: 30px;
+}
+.profileicon ul li {
+    display: inline-block;
+    border: 1px solid brown;
+    margin: 5px 5px;
+    padding: 10px 15px;
+}
+.profilecard:hover{
+    transition: all 1s;
+    border: 6px solid #b78d65;
+}
+
+.eight-part ul li{
+    background:#f8f8f8;
+    padding: 6px 100px;
+    margin: 10px;
+}
+
+
+.nav .nav-item button.active {
+    background-color: inherit !important;
+    color: #fff;
+}
+
+
+.tab-img img{
+    width: 100%;
+}
+  /* .nav .nav-item button.active::after {
+    content: "";
+    border-right: 4px solid #b78d65;
+    height: 100%;
+    position: absolute;
+    right: -1px;
+    top: 0;
+    border-radius: 5px 0 0 5px;
+  } */
+  
+.call{
+    font-size: large;
+    font-weight: lighter;
+}
+.num{
+    font-size: 20px;
+    font-weight: 500;
+}
+.name{
+    height: 61px;
+    margin-bottom: 12px;
+    border-radius: inherit;
+}
+.msg{
+    height: 66px;
+    margin-bottom: 12px;
+    border-radius: inherit;
+}
+.war{
+    margin-top: 0px;
+    background-color: #b78d65;
+    border-radius: inherit;
+    padding: 10px;
+    width: 100%;
+    height: 50px;
+}
+.testie
+{
+    margin: 20px 10px;
+}
+.list-group-flush>.list-group-item {
+    border-width: 0;
+}
+.face ul li{
+    display: inline-block;
+    border: 1px solid #b78d65;
+    margin: 5px 2px;
+    padding: 10px 15px;
+}
+.mail{
+    border-radius: 0px ;
+    border-color: #6f6e6d;
+}
+.sign{
+    border-radius: 0px;
+    background-color:#b78d65;
+    border-color:#b78d65;
+}
+.eleventh-part{
+    background-color: #252525;
+}
+.col li {
+    background-color: #252525;
+    color:#6f6e6d;
+
+}
+.col li i {
+    color: #b78d65;
+}
+    
+.co{
+    color: #6f6e6d;
+}
+.col li:hover{
+    color: #b78d65;
+
+}
+.co:hover{
+    color: #b78d65;
+}
+.face ul li:hover{
+    background-color: #6f6e6d;
+    color: #fff;
+}
+.col li::after{
+    background-color: #b78d65;
+    height: 3px;
+    width: 100%;
+    
+}
+.overlay{
+    background-image: url('about-1.jpg'), linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
+    background-blend-mode: color;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: absolute;
+    width: 330px;
+    height: 330px;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+.box2 .overlay{
+    display: none;
+}
+.box2:hover .overlay{
+    display: block;
+    transition: all .5s;
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 320px) and (max-width: 480px) {
+    .box {
+       width: inherit   ;
+        margin: 10px 0px;
+    }
+    .box2{
+        margin-bottom:15px ;
+        width: 100%;
+    }
+    .empty-border-01 {
+        height: 395px;
+        width: 265px;
+        left: 10px;
+        bottom: 58px;
+     margin-left: inherit; 
+    }
+    .empty-border-02 {
+        height: 395px;
+        width: 265px;
+        left: 10px;
+        bottom: -50px;
+     margin-left: inherit; 
+    }
+    .fifth-part h1{
+        font-size: 25px;
+    }
+    .about{
+       
+        display: none;
+    }
+    .about2 {
+        top: -70px;
+        right: 0;
+    }
+
+    .years{
+        padding: inherit;
+    }
+    .empty-border {
+        width: 234px;
+        top: 20px;
+        right: 65px;
+    }
+    .profilecard{
+        margin: 5px;
+    }
+    .eight-part ul li {
+    margin: 13px;
+    width: 260px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    padding: 0px 23px;
+    
+  }
+  .last{
+  padding-left: 30px;
+  }
+  .header-toplist ul li{
+    display: none;
+  }
+}
